@@ -87,20 +87,7 @@
 
 		</style> 
     </head> 
-    <header>         
-		<div id = "intestazione"> 
-            <h1>Gestione iscrizione prova</h1> 
-            <hr> 
-        </div>   
-    </header>  
-	
-	<footer> 
-		<div id ="footer"> 
-			<hr> 
-				<h1>Questa è una prova del footer fondo pagina</h1> 
-			</hr> 
-		</div> 
-	</footer> 
+  
      
     <body>  
          
