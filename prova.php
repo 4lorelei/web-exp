@@ -104,11 +104,7 @@
 			</div>  
 		</form> 
 			 
-		<?php 
-			require_once "connetti.php"; 
-			require_once "data.php"; 
-			echo "</hr>"; 
-		?> 
+		
 		
 		<article>
 			<h1>Most important heading here</h1>
