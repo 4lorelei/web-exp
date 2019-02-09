@@ -1,7 +1,6 @@
 <?php
 session_start(); // Starting Session
 $error=''; // Variable To Store Error Message
-echo "BENVENUTO\n";
 if (isset($_POST['submit'])) 
 {
 	if (empty($_POST['username']) || empty($_POST['password'])) 
