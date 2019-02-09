@@ -1,5 +1,5 @@
 <?php
-include('login.php'); // Includes Login Script
+include('loginn.php'); // Includes Login Script
 if(isset($_SESSION['login_user'])){
 	header("location: profile.php");
 }
@@ -23,7 +23,7 @@ if(isset($_SESSION['login_user'])){
 					<label>Password :</label>
 					<input id="password" name="password" placeholder="**********" type="password">
 					
-					<input name="submit" type="submittt" value=" Login ">
+					<input name="submit" type="submit" value=" Login ">
 					<span><?php echo $error; ?></span>
 				</form>
 			</div>
